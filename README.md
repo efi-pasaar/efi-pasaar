@@ -9,11 +9,14 @@ I'm an enthusiastic developer who wants to learn and help others as much as poss
 - 💬 Ask me about anything related to software development.
 - 📫 How to reach me: [Your Email](mailto:pasi.aarnilahde@eficode.com)
 
-## Skills
+## Skills and experience
 
 - Cloud Platforms: Azure
+- Containers: Kubernetes, Docker
 - Automation Platforms: Github, Azure DevOps, ScalR
 - Tools: Terraform, Bicep, AzCLI, Powershell
+- OnPrem Environments: Windows Servers, Linux (Debian-based distros), MacOS
+- Virtual Environments: VMware Hypervisor, Hyper-V
 
 ## Connect with Me
 
