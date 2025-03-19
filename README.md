@@ -21,5 +21,6 @@ I'm an enthusiastic developer who wants to learn and help others as much as poss
 ## Connect with Me
 
 - [GitHub](https://github.com/efi-pasaar)
+- [LinkedIn](https://www.linkedin.com/in/pasiaarnilahde)
 
 Let's make the world a better place through code!
