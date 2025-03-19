@@ -4,10 +4,10 @@ I'm an enthusiastic developer who wants to learn and help others as much as poss
 
 ## About Me
 
-- 🌱 I’m currently learning new programming languages and frameworks.
-- 🤝 I’m looking to collaborate on open-source projects.
+- 🌱 I’m currently learning new technologies, platforms, and programming languages and frameworks, especially cloud related.
+- 🤝 I’m also looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [Your Email](mailto:pasi.aarnilahde@eficode.com)
+- 📫 How to reach me: [MailTo:](mailto:pasi.aarnilahde@eficode.com)
 
 ## Skills and experience
 
