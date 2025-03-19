@@ -7,7 +7,7 @@ I'm an enthusiastic developer who wants to learn and help others as much as poss
 - 🌱 I’m currently learning new technologies, platforms, and programming languages and frameworks, especially cloud related.
 - 🤝 I’m also looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [MailTo:](mailto:pasi.aarnilahde@eficode.com)
+- 📫 How to reach me: [mailto:pasi.aarnilahde@eficode.com](mailto:pasi.aarnilahde@eficode.com)
 
 ## Skills and experience
 
